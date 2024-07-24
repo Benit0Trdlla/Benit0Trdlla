@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Esta es una imagen de ejemplo](https://media.licdn.com/dms/image/D4E16AQEGVyxGHrzPbw/profile-displaybackgroundimage-shrink_350_1400/0/1680452910091?e=1719446400&v=beta&t=WGXn12ny5TQADmJlNiLKYyrH0fYQk1S1c4UuUMAkMhA)
+[![Esta es una imagen de ejemplo](https://media.licdn.com/dms/image/D4E16AQEGVyxGHrzPbw/profile-displaybackgroundimage-shrink_350_1400/0/1680452910091?e=1719446400&v=beta&t=WGXn12ny5TQADmJlNiLKYyrH0fYQk1S1c4UuUMAkMhA)](url)
 
 ¡Hola! 👋 Soy Benito Tridella Dolce, un Desarrollador Web Junior y Técnico en Informática Profesional y Personal egresado del Colegio San José N° 2043 en Rosario, Santa Fe, Argentina.
 
