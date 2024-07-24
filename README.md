@@ -2,8 +2,6 @@
 
 Mi formación como Desarrollador Frontend abarca HTML5, CSS3, Bootstrap, JavaScript, React y Next.JS. Mis conocimientos como Desarrollador Backend se conforma por NodeJS, Express, MySQL y Prisma. También tengo experiencia desarrollando y trabajando con API's RESTful. Para el control de versiones utilizo Git (GitHub Desktop).
 
-Asimismo, si es necesario realizar algún diseño, poseo conocimientos en herramientas de diseño gráfico como Genially y Canva.
-
 Busco consolidar mi carrera profesional como Desarrollador Web en una organización que me brinde estabilidad laboral y un ambiente favorable para aprender y crecer continuamente, pudiendo superar logros y ofrecer resultados significativos.
 
 Por lo que, cualquier propuesta laboral que me permita seguir explorando y creciendo será bienvenida. 
