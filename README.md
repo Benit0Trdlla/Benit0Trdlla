@@ -1,12 +1,9 @@
-¡Hola! 👋 Soy un Desarrollador Web Junior y Técnico en Informática Profesional y Personal egresado del Colegio San José N° 2043 en Rosario, Santa Fe, Argentina.
+¡Hola! 👋 Soy un 💻 Desarrollador Frontend y Técnico en Informática Profesional y Personal egresado del Colegio San José N° 2043 en Rosario, Santa Fe, Argentina. Especializado en HTML, CSS, Bootstrap, JavaScript, React y Next.js. Tengo experiencia trabajando con APIs RESTful y usando Git (GitHub) para el control de versiones. Mi enfoque es crear interfaces modernas, responsive 📱 y eficientes, aprovechando mis conocimientos y mejores prácticas en desarrollo web.
 
-Mis conocimientos como Desarrollador Frontend abarca HTML, CSS, Bootstrap, JavaScript, React, y Next.js. Con experiencia en el desarrollo y trabajo con APIs RESTful y en el control de versiones utilizando Github. 
-Mis conocimientos como Desarrollador Backend se conforma por NodeJS, Express, MySQL y Prisma. 
+🚀 Refuerzo mis habilidades a través del aprendizaje activo y la adaptación continua. Menciono la comunicación efectiva, la gestión del tiempo y la resolución de problemas como algunas soft skills fundamentales en mi trabajo. En el aspecto técnico, mi foco está puesto en la escritura de código optimizado para el rendimiento ⚡ y la escalabilidad 📈. 
 
-Busco consolidar mi carrera profesional como Desarrollador Web, soy un comprometido con el aprendizaje continuo para lograr objetivos personales y ofrecer resultados significativos.
+Soy un perfil versátil, comprometido con el uso de tecnologías modernas y preparado para nuevos retos. Mi objetivo es aportar resultados significativos en cada proyecto en el que participo.
 
-Por lo que, cualquier propuesta laboral que me permita seguir explorando y creciendo será bienvenida. 
+¡Ponte en contacto conmigo por Correo o MD de LinkedIn! 📨 
 
-Correo electrónico profesional: benitotridelladolce@gmail.com
-
-¡Gracias por tu tiempo!
+¡Gracias por tu tiempo! 🤝
