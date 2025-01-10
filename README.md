@@ -5,6 +5,6 @@
 
 🚀 Refuerzo mis habilidades a través del aprendizaje activo y la adaptación continua. Menciono la comunicación efectiva, la gestión del tiempo y la resolución de problemas como algunas soft skills fundamentales en mi trabajo. En el aspecto técnico, mi foco está puesto en la escritura de código optimizado para el rendimiento ⚡ y la escalabilidad 📈. 
 
-¡Ponte en contacto conmigo por Correo o LinkedIn! 📨 
+¡Ponte en contacto conmigo por Correo o MD de LinkedIn! 📨 
 
 ¡Gracias por tu tiempo! 🤝
