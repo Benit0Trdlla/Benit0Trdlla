@@ -11,7 +11,9 @@ Siempre abierto a aprender y adaptarme a nuevas tecnologías y entornos de desar
 # GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Benit0Trdlla&theme=dark&locale=es" />
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=Benit0Trdlla&theme=dark&locale=es" />
+    </a>
 </p>
 
 <p align="center">
