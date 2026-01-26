@@ -50,4 +50,11 @@ Me motiva aprender continuamente y crear productos innovadores, productivos y cr
 <br>
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benit0Trdlla&hide_progress=true&locale=es" />
+</p>
+
+
+<br>
+
 <p align="center">¡Gracias por tu tiempo! 🤝</p>
