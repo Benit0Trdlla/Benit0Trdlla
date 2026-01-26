@@ -40,21 +40,17 @@ Me motiva aprender continuamente y crear productos innovadores, productivos y cr
 </p>
 
 <h1 align="center"><b>GitHub Stats</b></h1>
-<a href="https://github.com/Benit0Trdlla/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=Benit0Trdlla&theme=dark&locale=es" />
-</a>
-<a href="https://github.com/Benit0Trdlla/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Benit0Trdlla&show_icons=true&theme=dark&locale=es&hide=issues,contribs" />
-</a>
-
-<br>
-<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benit0Trdlla&hide_progress=true&locale=es" />
+  <a href="https://github.com/Benit0Trdlla/github-readme-stats">
+    <img src="https://streak-stats.demolab.com?user=Benit0Trdlla&theme=dark&locale=es" />
+  </a>
 </p>
 
-
-<br>
+<p align="center">
+  <a href="https://github.com/Benit0Trdlla/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Benit0Trdlla&show_icons=true&theme=dark&locale=es&hide=issues,contribs" />
+  </a>
+</p>
 
 <p align="center">¡Gracias por tu tiempo! 🤝</p>
